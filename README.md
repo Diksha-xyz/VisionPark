@@ -94,7 +94,7 @@ VisionPark/
 │── captures/           # Saved vehicle images
 │── requirements.txt
 │── README.md
-│── images/             # Screenshots for README
+│── images/             
 ```
 
 ---
@@ -128,16 +128,15 @@ When a blacklisted vehicle is detected:
 
 ### Dashboard Views
 
-<img src="images/dashboard_main.png" width="30%">
-<img src="images/dashboard_metrics.png" width="30%">
-<img src="images/dashboard_logs.png" width="30%">
+<img src="dashboard_main.png" width="30%">
+<img src="dashboard_metrics.png" width="30%">
+<img src="dashboard_logs.png" width="30%">
 
 ### Detection System
-![Detection](images/detection.png)
+![Detection](detection.png)
 
 ### WhatsApp Alert
-![Alert](images/alert.png)
-
+![Alert](alert.png)
 ## 📊 Sample Output
 
 **Detected Plate:**
